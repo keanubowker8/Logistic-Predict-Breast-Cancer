@@ -1,6 +1,6 @@
 pandas 
 numpy 
-matlpotlib 
+matlpotlib
 seaborn 
 scipy 
 scikit-learn 
